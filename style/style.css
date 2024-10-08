@@ -1,0 +1,35 @@
+/* https://karvazendegi.com */
+
+text.djs-label{
+ 
+	  	font-family:  "IRANSansFaNum" , "B Roya" !important;
+		text-align: center !important;
+		unicode-bidi: isolate	;
+		font-size: 1em !important;
+}
+
+tspan {
+
+	  	font-family:  "IRANSansFaNum"  , "B Roya"!important;
+		unicode-bidi: isolate	;
+	    text-anchor: end;   
+		direction: rtl; 
+		font-size: .9em !important;
+		text-align: right !important;
+		font-weight: bold !important;
+		margin: .8em !important;
+align-self: center;
+
+}
+
+.djs-direct-editing-content{
+ 
+	  	font-family:  "IRANSansFaNum"  , "B Roya"!important;
+		unicode-bidi: isolate !important	;
+		direction: rtl !important; 
+		font-weight: bold !important;
+		color: #FB6542;
+		text-align: center;
+
+}
+
